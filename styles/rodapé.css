@@ -49,11 +49,4 @@ hr {
         border-left: 1px solid var(--cinza-claro);
         padding-left: 1em;
     }
-}hr {
-    margin: 0;
-}
-
-.rodapé {
-    background-color: var(--branco);
-    padding: 1em;
 }
